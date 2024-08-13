@@ -6,6 +6,10 @@
 #include <algorithm>
 using namespace std;
 
+int LIS(vector<int>& vec){
+    
+}
+
 int main(){
     int T;
     cin >> T;
