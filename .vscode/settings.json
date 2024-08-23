@@ -60,6 +60,8 @@
     "tuple": "cpp",
     "ostream": "cpp",
     "array": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "iomanip": "cpp",
+    "limits": "cpp"
   }
 }
