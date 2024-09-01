@@ -39,7 +39,6 @@ for _ in range(T):
     for k in fire_list:
         hap += weight_list[k]
     answer.append(hap)
-    print(weight_list)
 for k in answer:
     print(k)
 
