@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/minju/Desktop/Jok",
-      "program": "c:/Users/minju/Desktop/Jok/build/Debug/outDebug",
+      "cwd": "c:/Users/minju/Desktop/Jok/PY",
+      "program": "c:/Users/minju/Desktop/Jok/PY/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

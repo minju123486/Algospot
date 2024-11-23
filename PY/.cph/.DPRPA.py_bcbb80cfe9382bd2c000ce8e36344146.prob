@@ -1,0 +1,1 @@
+{"name":"Local: DPRPA","url":"c:\\Users\\minju\\Desktop\\Jok\\PY\\DPRPA.py","tests":[{"id":1730464126836,"input":"3\n2 4 \n80 100 120 140 \n4 4 \n80 100 120 140.00\n4 7 \n0 70 90 120 200 210 220","output":"60.00\n20.00\n50.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\minju\\Desktop\\Jok\\PY\\DPRPA.py","group":"local","local":true}

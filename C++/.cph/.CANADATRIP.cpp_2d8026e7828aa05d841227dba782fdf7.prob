@@ -1,0 +1,1 @@
+{"name":"Local: CANADATRIP","url":"c:\\Users\\minju\\Desktop\\Jok\\C++\\CANADATRIP.cpp","tests":[{"id":1731137557631,"input":"2\n3 15\n500 100 10\n504 16 4\n510 60 6\n2 1234567\n8030000 8030000 1\n2 2 1","output":"480\n1234563"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\minju\\Desktop\\Jok\\C++\\CANADATRIP.cpp","group":"local","local":true}
